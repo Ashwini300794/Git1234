@@ -12,6 +12,7 @@ InstituteImpl i=new InstituteImpl();
 Scanner sc = new Scanner(System.in);
 System.out.println("1. AddCourse \n 2.ViewCourse \n 3.AddFaculty \n 4.ViewFaculty");
 int n;
+		int 6tyh7uu8
 
 do
 {
